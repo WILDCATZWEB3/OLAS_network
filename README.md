@@ -15,7 +15,3 @@ OLAS Network is a blockchain platform focused on advertising Nigerian projects. 
 ### Prerequisites
 
 - **Python**: OLAS Network is developed using Python.
-- **Dependencies**: Install required libraries.
-  
-  ```bash
-  pip install -r requirements.txt
